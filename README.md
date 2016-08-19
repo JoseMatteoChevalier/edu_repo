@@ -1,6 +1,6 @@
 # edu_repo
 
 ## Something or other
-*1
-*2
-*3
+li 1
+li 2
+li 3
