@@ -1,3 +1,6 @@
 # edu_repo
 
-This is a test repo
+## Something or other
+*1
+*2
+*3
